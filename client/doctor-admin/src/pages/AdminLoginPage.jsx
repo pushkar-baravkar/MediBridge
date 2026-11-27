@@ -43,7 +43,7 @@ function AdminLoginPage() {
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(45,212,191,0.22),transparent_40%),radial-gradient(circle_at_80%_30%,rgba(245,158,11,0.2),transparent_35%)]" />
       <form onSubmit={onSubmit} className="relative w-full max-w-md space-y-6 rounded-3xl border border-white/10 bg-white/5 p-5 backdrop-blur-md sm:p-8">
         <div>
-          <p className="text-xs font-bold uppercase tracking-[0.25em] text-mint">Doctor System</p>
+          <p className="text-xs font-bold uppercase tracking-[0.25em] text-mint">MediBridge</p>
           <h1 className="mt-2 text-2xl font-black sm:text-3xl">Admin Login</h1>
         </div>
 

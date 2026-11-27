@@ -732,7 +732,7 @@ function LandingPage() {
         <footer className="relative mt-10 border-t border-white/10">
           <div className="mx-auto grid max-w-7xl gap-6 px-4 py-8 sm:px-6 lg:grid-cols-[1fr_auto] lg:px-8">
             <div>
-              <div className="text-xl font-black text-white">MediPulse</div>
+              <div className="text-xl font-black text-white">MediBridge</div>
               <p className="mt-2 max-w-2xl text-sm text-slate-400">
                 Built for immediate emergency response with secure routing, verified providers, and rapid access to care.
               </p>
@@ -757,7 +757,7 @@ function LandingPage() {
             </div>
           </div>
           <div className="border-t border-white/10 py-4 text-center text-sm text-slate-500">
-            &copy; {new Date().getFullYear()} MediPulse. All rights reserved.
+            &copy; {new Date().getFullYear()} MediBridge. All rights reserved.
           </div>
         </footer>
 

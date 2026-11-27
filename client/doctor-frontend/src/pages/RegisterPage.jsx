@@ -265,7 +265,7 @@ function RegisterPage() {
 
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
         <AuthCard
-          title="Create MediPulse Account"
+          title="Create MediBridge Account"
           subtitle="Join the emergency network with role-specific onboarding and real-time location setup."
           headerSlot={
             <p className="rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-teal-200">

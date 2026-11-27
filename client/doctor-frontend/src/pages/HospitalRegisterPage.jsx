@@ -198,7 +198,7 @@ function HospitalRegisterPage() {
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8">
         <AuthCard
           title="Hospital / Clinic Registration"
-          subtitle="Register your institution and get verified for the MediPulse emergency network."
+          subtitle="Register your institution and get verified for the MediBridge emergency network."
           headerSlot={
             <p className="rounded-full border border-white/15 bg-white/5 px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-teal-200">
               Step {progressStep} / 3

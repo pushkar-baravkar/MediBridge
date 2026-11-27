@@ -33,7 +33,7 @@ function TopNav() {
             <div className="h-3 w-3 rounded-full bg-white shadow-sm" />
           </div>
           <span className="text-lg font-black uppercase tracking-[0.15em] text-transparent bg-clip-text bg-gradient-to-r from-white to-slate-200 sm:text-xl">
-            MediPulse
+            MediBridge
           </span>
         </Link>
 

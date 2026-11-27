@@ -25,7 +25,7 @@ function AdminShell({ children }) {
       <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_15%_10%,rgba(63,140,255,0.08),transparent_30%),radial-gradient(circle_at_85%_20%,rgba(35,213,171,0.06),transparent_35%)]" />
       <div className="relative mx-auto flex min-h-screen max-w-[1600px]">
         <aside className="glass-nav hidden w-72 shrink-0 border-r border-white/10 p-6 lg:block">
-          <p className="text-xs font-bold uppercase tracking-[0.25em] text-mint">Doctor System</p>
+          <p className="text-xs font-bold uppercase tracking-[0.25em] text-mint">MediBridge</p>
           <h1 className="mt-2 text-2xl font-black">Admin Command</h1>
           <p className="mt-1 text-xs text-slate-400">Central governance for hospitals, fleets, donors, and emergency workflows.</p>
           <nav className="mt-8 space-y-2">
@@ -49,7 +49,7 @@ function AdminShell({ children }) {
               className="glass-nav h-full w-64 border-r border-white/10 p-5 shadow-glow"
               onClick={(event) => event.stopPropagation()}
             >
-              <p className="text-xs font-bold uppercase tracking-[0.25em] text-mint">Doctor System</p>
+              <p className="text-xs font-bold uppercase tracking-[0.25em] text-mint">MediBridge</p>
               <h1 className="mt-2 text-xl font-black">Admin Command</h1>
               <p className="mt-1 text-xs text-slate-400">Central governance panel.</p>
               <nav className="mt-6 space-y-2">

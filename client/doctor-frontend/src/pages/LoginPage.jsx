@@ -98,7 +98,7 @@ function LoginPage() {
                   Coordinate emergency care with confidence.
                 </h2>
                 <p className="mt-4 max-w-md text-sm text-slate-200 sm:text-base">
-                  Dispatch ambulances, sync hospitals, and keep every critical update in one trusted MediPulse flow.
+                  Dispatch ambulances, sync hospitals, and keep every critical update in one trusted MediBridge flow.
                 </p>
               </div>
 
@@ -117,7 +117,7 @@ function LoginPage() {
             </div>
           </section>
 
-          <AuthCard title="Welcome Back 👋" subtitle="Login to access MediPulse emergency services" className="animate-fadeUp">
+          <AuthCard title="Welcome Back 👋" subtitle="Login to access MediBridge emergency services" className="animate-fadeUp">
             <form onSubmit={handleSubmit} className="space-y-5" noValidate>
               <InputField
                 label="Email"
@@ -197,7 +197,7 @@ function LoginPage() {
               </button>
 
               <p className="text-center text-sm text-slate-300">
-                New to MediPulse?{' '}
+                New to MediBridge?{' '}
                 <Link to="/register" className="font-semibold text-teal-300 transition hover:text-teal-200">
                   Create account
                 </Link>
